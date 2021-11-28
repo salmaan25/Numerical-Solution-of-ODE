@@ -1,2 +1,2 @@
-# ode-solver
-implementation and comparison of ode solvers on Morse potential problem
+# Numerical-Solution-of-ODE
+Matlab codes as part of the course Numerical Solution of ODEs
